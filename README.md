@@ -2,7 +2,7 @@
 ## Software Engineer
 ### HTML5 | CSS3 | JavaScript
 
-#### My Why
+#### Who I am
 It has been a long crazy road filled with amazing employers, equally amazing coworkers, and professional, as well as life lessons. 
 My background has been predominantly Retail Sales, and customer service, but my obsession has been technology, and web design.
 I am the guy that shows up 15-30 minutes early because I feel like I am late otherwise, the guy that will work late just to get those final touches in. 
