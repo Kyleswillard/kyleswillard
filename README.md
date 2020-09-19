@@ -19,10 +19,10 @@ Currently I am working on two personal projects, as well as always working on an
 
 ##### Coupon App 
 An app in development for a family friend to make life easier long term for both them, and their business.
-Status: In Development
+###### Status: In Development
 ###### React | Redux | Express | Node.js
 
 ##### DFS Experience
 Who doesn't like Fantasy Football. This webscraping, custom Fantasy Football league is built to select players weekly, and keep track of progress. 
-Status: In Development
+###### Status: In Development
 ###### React | Redux | Express | Node.js
