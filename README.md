@@ -1,6 +1,6 @@
 # Kyle Willard
 ## Software Engineer
-### HTML5 | CSS3 | JavaScript
+### HTML5 | CSS3 | Sass | JavaScript/ES6 
 
 #### Who I am
 It has been a long crazy road filled with amazing employers, equally amazing coworkers, and professional, as well as life lessons. 
