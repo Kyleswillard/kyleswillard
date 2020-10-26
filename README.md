@@ -25,4 +25,4 @@ An app in development for a family friend to make life easier long term for both
 ##### DFS Experience
 Who doesn't like Fantasy Football. This webscraping, custom Fantasy Football league is built to select players weekly, and keep track of progress. 
 ###### Status: In Development
-###### React | Redux | Express | Node.js
+###### Redux | Express | Node.js
