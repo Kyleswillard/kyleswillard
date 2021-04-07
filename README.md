@@ -17,7 +17,7 @@ I enjoy doing front end for sure. I use react, and all of the standard tools tha
 Lambda School
 Full Stack Web Development
 
-#### My Frameworks
+#### What I use
 HTML | CSS | SASS | JavaScript[ES6] | TypeScript | React | Redux | Express | Node | MongoDB | PostgreSQL | MySQL | GraphQL | Apollo Client/Server
 
 #### My Projects
