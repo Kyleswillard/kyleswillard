@@ -107,8 +107,12 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [Updating my GitHub Readme!](https://kyleswillard.medium.com/updating-my-github-readme-4bec30069d9?source=rss-e0f6ab65fe18------2)
+- [Dev Blog — Moving away from Trello](https://medium.com/new-evolution-digital-dev-blog/dev-blog-moving-away-from-trello-f01f0c3e5d9b?source=rss-e0f6ab65fe18------2)
+- [New Evolution Digital — Our Team](https://medium.com/new-evolution-digital-dev-blog/new-evolution-digital-our-team-cf2c1a61682f?source=rss-e0f6ab65fe18------2)
+- [New Evolution Digital — Developer Blog — Entry One](https://medium.com/new-evolution-digital-dev-blog/new-evolution-digital-developer-blog-entry-one-bee4969b528?source=rss-e0f6ab65fe18------2)
+- [Learning to Program — I keep learning but I forget everything!](https://kyleswillard.medium.com/learning-to-program-i-keep-learning-but-i-forget-everything-102b0c5bc1bc?source=rss-e0f6ab65fe18------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
