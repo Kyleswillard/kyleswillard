@@ -108,11 +108,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Getting Fired Up!](https://kyleswillard.medium.com/getting-fired-up-7c82f524ae8c?source=rss-e0f6ab65fe18------2)
 - [Dev Blog — What is Automodiv?!](https://medium.com/new-evolution-digital-dev-blog/dev-blog-what-is-automodiv-2ee54be5741b?source=rss-e0f6ab65fe18------2)
 - [Updating my GitHub Readme!](https://kyleswillard.medium.com/updating-my-github-readme-4bec30069d9?source=rss-e0f6ab65fe18------2)
 - [Dev Blog — Moving away from Trello](https://medium.com/new-evolution-digital-dev-blog/dev-blog-moving-away-from-trello-f01f0c3e5d9b?source=rss-e0f6ab65fe18------2)
 - [New Evolution Digital — Our Team](https://medium.com/new-evolution-digital-dev-blog/new-evolution-digital-our-team-cf2c1a61682f?source=rss-e0f6ab65fe18------2)
-- [New Evolution Digital — Developer Blog — Entry One](https://medium.com/new-evolution-digital-dev-blog/new-evolution-digital-developer-blog-entry-one-bee4969b528?source=rss-e0f6ab65fe18------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
